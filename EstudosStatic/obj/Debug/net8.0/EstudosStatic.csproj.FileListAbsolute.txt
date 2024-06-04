@@ -1,0 +1,14 @@
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudosStatic\EstudosStatic\bin\Debug\net8.0\EstudosStatic.exe
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudosStatic\EstudosStatic\bin\Debug\net8.0\EstudosStatic.deps.json
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudosStatic\EstudosStatic\bin\Debug\net8.0\EstudosStatic.runtimeconfig.json
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudosStatic\EstudosStatic\bin\Debug\net8.0\EstudosStatic.dll
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudosStatic\EstudosStatic\bin\Debug\net8.0\EstudosStatic.pdb
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudosStatic\EstudosStatic\obj\Debug\net8.0\EstudosStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudosStatic\EstudosStatic\obj\Debug\net8.0\EstudosStatic.AssemblyInfoInputs.cache
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudosStatic\EstudosStatic\obj\Debug\net8.0\EstudosStatic.AssemblyInfo.cs
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudosStatic\EstudosStatic\obj\Debug\net8.0\EstudosStatic.csproj.CoreCompileInputs.cache
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudosStatic\EstudosStatic\obj\Debug\net8.0\EstudosStatic.dll
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudosStatic\EstudosStatic\obj\Debug\net8.0\refint\EstudosStatic.dll
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudosStatic\EstudosStatic\obj\Debug\net8.0\EstudosStatic.pdb
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudosStatic\EstudosStatic\obj\Debug\net8.0\EstudosStatic.genruntimeconfig.cache
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudosStatic\EstudosStatic\obj\Debug\net8.0\ref\EstudosStatic.dll
